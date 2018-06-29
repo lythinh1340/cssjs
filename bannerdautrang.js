@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://lythinhhungthinh.blogspot.com/' target='_blank'><img src='https://i.ytimg.com/vi/711ggHn3FIg/maxresdefault.jpg' width='500px'/><br/>13 Dự Án Q7 Sài Gòn Riverside</a>. Liên Hệ: 0938726727. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://lythinhhungthinh.blogspot.com/' target='_blank'><img src='https://i.ytimg.com/vi/711ggHn3FIg/maxresdefault.jpg' width='500px'/><br/>Dự Án Q7 Sài Gòn Riverside</a>. Liên Hệ: 0938726727. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
